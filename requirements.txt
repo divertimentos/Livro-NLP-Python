@@ -3,11 +3,11 @@ attrs==19.1.0
 black==19.3b0
 Click==7.0
 mccabe==0.6.1
-nltk==3.4.1
+nltk==3.4.5
 pycodestyle==2.5.0
-pydocstyle==3.0.0
+pydocstyle==4.0.1
 pyflakes==2.1.1
 pylama==7.7.1
 six==1.12.0
-snowballstemmer==1.2.1
+snowballstemmer==1.9.0
 toml==0.10.0
