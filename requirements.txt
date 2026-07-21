@@ -3,7 +3,7 @@ attrs==19.1.0
 black==26.3.1
 Click==7.0
 mccabe==0.6.1
-nltk==3.9.3
+nltk==3.9.4
 pycodestyle==2.5.0
 pydocstyle==4.0.1
 pyflakes==2.1.1
